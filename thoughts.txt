@@ -1,0 +1,15 @@
+first 10 minutes important winning factors:
+    gold difference
+    kill difference
+    minions -> cs/min
+    jungle monster
+    
+    
+    
+Findings:
+    glm models typically gave an AUC of ~0.81
+
+
+    basic tree yielded mean 0.665587
+    post prune tree yielded mean 0.7157895
+        cp = 0.0023 came from complexity plot
