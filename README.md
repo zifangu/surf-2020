@@ -1,14 +1,9 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# Supervised Learning on League of Legends
 
+League of Legends is an online multiplayer video game. Each game consist of two teams competing against each other. Only two outcomes are possible: Blue Team wins or Red Team wins, making this a classification problem. Find out more about the game on their [official website](http://leagueoflegends.com).
 
-Hi there! Welcome to AWS Cloud9!
+This repository contains some machine learning methods I implemented to predict the outcome, including kmeans, naive bayes, stepwise regression, and decision trees.
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+The graphs directory gives more information about the AUC for their corresponding titled methods, in addition to a pruned tree.
 
-Happy coding!
+The dataset can be found on Kaggle: https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min
